@@ -4,7 +4,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/#single-post
  *
- * @package UDEMY_hello-wordpress
+ * @package ka-pcxc01
  */
 
 get_header(); ?>

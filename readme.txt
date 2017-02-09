@@ -1,4 +1,4 @@
-=== UDEMY_hello-wordpress ===
+=== ka-pcxc01 ===
 
 Contributors: automattic
 Tags: translation-ready, custom-background, theme-options, custom-menu, post-formats, threaded-comments
@@ -9,11 +9,11 @@ Stable tag: 1.0.0
 License: GNU General Public License v2 or later
 License URI: LICENSE
 
-A starter theme called UDEMY_hello-wordpress, or underscores.
+A starter theme called ka-pcxc01, or underscores.
 
 == Description ==
 
-Hi. I'm a starter theme called UDEMY_hello-wordpress, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
+Hi. I'm a starter theme called ka-pcxc01, or underscores, if you like. I'm a theme meant for hacking so don't use me as a Parent Theme. Instead try turning me into the next, most awesome, WordPress theme out there. That's what I'm here for.
 
 == Installation ==
 
@@ -25,7 +25,7 @@ Hi. I'm a starter theme called UDEMY_hello-wordpress, or underscores, if you lik
 
 = Does this theme support any plugins? =
 
-UDEMY_hello-wordpress includes support for Infinite Scroll in Jetpack.
+ka-pcxc01 includes support for Infinite Scroll in Jetpack.
 
 == Changelog ==
 

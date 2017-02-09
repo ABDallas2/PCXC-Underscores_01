@@ -1,8 +1,8 @@
 <?php
 /**
- * UDEMY_hello-wordpress Theme Customizer
+ * ka-pcxc01 Theme Customizer
  *
- * @package UDEMY_hello-wordpress
+ * @package ka-pcxc01
  */
 
 /**
@@ -10,17 +10,17 @@
  *
  * @param WP_Customize_Manager $wp_customize Theme Customizer object.
  */
-function hello_wordpress_customize_register( $wp_customize ) {
+function ka_pcxc01_customize_register( $wp_customize ) {
 	$wp_customize->get_setting( 'blogname' )->transport         = 'postMessage';
 	$wp_customize->get_setting( 'blogdescription' )->transport  = 'postMessage';
 	$wp_customize->get_setting( 'header_textcolor' )->transport = 'postMessage';
 }
-add_action( 'customize_register', 'hello_wordpress_customize_register' );
+add_action( 'customize_register', 'ka_pcxc01_customize_register' );
 
 /**
  * Binds JS handlers to make Theme Customizer preview reload changes asynchronously.
  */
-function hello_wordpress_customize_preview_js() {
-	wp_enqueue_script( 'hello_wordpress_customizer', get_template_directory_uri() . '/js/customizer.js', array( 'customize-preview' ), '20151215', true );
+function ka_pcxc01_customize_preview_js() {
+	wp_enqueue_script( 'ka_pcxc01_customizer', get_template_directory_uri() . '/js/customizer.js', array( 'customize-preview' ), '20151215', true );
 }
-add_action( 'customize_preview_init', 'hello_wordpress_customize_preview_js' );
+add_action( 'customize_preview_init', 'ka_pcxc01_customize_preview_js' );

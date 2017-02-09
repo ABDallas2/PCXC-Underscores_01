@@ -4,7 +4,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package UDEMY_hello-wordpress
+ * @package ka-pcxc01
  */
 
 get_header(); ?>
